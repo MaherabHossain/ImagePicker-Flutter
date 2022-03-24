@@ -1,9 +1,7 @@
-import 'dart:io';
+
 
 import 'package:flutter/material.dart';
-import 'package:provider/provider.dart';
-import 'package:test_app/Data.dart';
-import 'package:test_app/School.dart';
+
 import 'package:image_picker/image_picker.dart';
 
 void main() {
